@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+st7789-venv/
+*.log
